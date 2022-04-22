@@ -170,7 +170,7 @@ int ucgenCizilirMi() {
 	}
 	else printf("Bu kenarlarla ucgen cizilir.");
 
-	//ic ice if de kullanılabilirdi. 
+
 	
 }
 
